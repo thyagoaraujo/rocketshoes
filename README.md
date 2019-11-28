@@ -4,6 +4,8 @@
 
 ### Demo
 
+[Live Preview](https://rocketshoes-react.netlify.com)
+
 ![Demo](demo.gif)
 
 ![Demo](demo2.gif)
